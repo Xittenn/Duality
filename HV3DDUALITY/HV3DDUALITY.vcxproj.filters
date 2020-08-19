@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Midl Include="App.idl" />
+    <Midl Include="MainPage.idl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp" />
+    <ClCompile Include="MainPage.cpp" />
+    <ClCompile Include="$(GeneratedFilesDir)module.g.cpp">
+      <Filter>Project</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Project</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{e48dc53e-40b1-40cb-970a-f89935452892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Project">
+      <UniqueIdentifier>{2c2e32d7-f381-473c-b329-b355ebcc5ae1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls">
+      <UniqueIdentifier>{c333b90a-fc4f-4082-979e-916e40e36d6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionaries">
+      <UniqueIdentifier>{5759e6c1-d0f3-483e-a038-55a4a8c65a47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionaries\Themes">
+      <UniqueIdentifier>{3414d0d1-86fc-4a7e-a9c1-6eddd66be504}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionaries\Themes\Color Swatches">
+      <UniqueIdentifier>{d1b1a1f9-b82b-4dcf-930f-d8ba63209562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionaries\Themes\UI Elements">
+      <UniqueIdentifier>{60abd704-6828-45ed-a1fc-c080f6c5080c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionaries\Themes\Pages">
+      <UniqueIdentifier>{8e810def-a2c6-413a-bf44-b353a81a817b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces">
+      <UniqueIdentifier>{26f1589f-24a7-44b0-a88b-89e6cf222b3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Menus">
+      <UniqueIdentifier>{a491020a-4e67-4ece-bcc1-308188e71ded}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Pages">
+      <UniqueIdentifier>{dc585f4d-0c24-4747-bdc4-c60539a8cb35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Pages\Main Page">
+      <UniqueIdentifier>{de8285c8-a76f-4e12-adee-b72d22a84732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Pages\App">
+      <UniqueIdentifier>{1ecd2d9c-a96b-4ec2-baa1-1cd28485b3e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Menus\New Project">
+      <UniqueIdentifier>{ab747ae7-7ea7-4c9d-9874-34f3f6e55b6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Menus\Load Project">
+      <UniqueIdentifier>{46d314f2-7263-4c06-a91d-5cbf48f86688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Algorithms">
+      <UniqueIdentifier>{b00f918c-4e6e-46ab-be02-05d97f4bb3a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Framework">
+      <UniqueIdentifier>{297b02d7-464f-44d5-ac5e-7fee19e1f1e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Framework\Project XAML">
+      <UniqueIdentifier>{a78bea9e-8a2c-40eb-b1f8-f59299663ed4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Volume Helpers">
+      <UniqueIdentifier>{3c2303a8-2fbc-43b1-b6b1-36a2c6f1ff8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Software">
+      <UniqueIdentifier>{42bb36d3-0f73-4a8f-8fc8-2abd85666ee7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Tool Pods">
+      <UniqueIdentifier>{71873417-e689-4665-b414-44d4dabbe79b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Tool Pods\Cameras">
+      <UniqueIdentifier>{fec326bb-642c-40e9-95c5-8903a9a4475b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Tool Pods\Geometry">
+      <UniqueIdentifier>{4e83bc02-90ad-4479-bb3e-e983689f029b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera">
+      <UniqueIdentifier>{aca0bf7a-c6d2-4b06-8fc2-771be58fcac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Sensors">
+      <UniqueIdentifier>{ffe7b6ee-4044-4386-8ded-50999db1e2f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses">
+      <UniqueIdentifier>{c79991ae-69d9-432f-bc8a-00c4e36a91d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Memory">
+      <UniqueIdentifier>{aee11e26-dcff-488a-9428-c98837930508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Framework\Document Graph">
+      <UniqueIdentifier>{5ab4e439-00e7-4fd5-b72c-1d9882e03abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Doc Graph Viewer">
+      <UniqueIdentifier>{7bb462ea-84fd-4232-b02e-ae814b2e20c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Memory\8K">
+      <UniqueIdentifier>{fd6e9b1f-741c-484e-aae9-3ea318adca62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Memory\4K">
+      <UniqueIdentifier>{e2ea82b8-e0ae-41d8-bb0f-7b3261bbaa05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Memory\2K">
+      <UniqueIdentifier>{ee1d31ad-2b2c-474a-8883-76f27898d5e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Memory\1080P">
+      <UniqueIdentifier>{30520bdd-83ef-4a15-b5df-68fc1ccbf41e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Magnetic Field">
+      <UniqueIdentifier>{0723e7cb-8933-40bb-839b-73da5b97a8f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Gamma Spec">
+      <UniqueIdentifier>{b0862f4e-b7dc-4c86-ba31-b5376b550391}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Infra Red Spec">
+      <UniqueIdentifier>{8e5749c4-05b9-42be-b8ea-3bd6338929c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Radio Spec">
+      <UniqueIdentifier>{f8df913a-0b05-44e2-8925-5dc4dde5057d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Ultra Sound">
+      <UniqueIdentifier>{0eaa3a39-6c00-44ca-9127-8983abaa046b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Sound">
+      <UniqueIdentifier>{ea560bba-a641-44ff-9b5a-b0582c390ede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Lenses\Visible Spec">
+      <UniqueIdentifier>{5c7175fc-b473-43be-a0da-dab032d7c836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Camera\Monitor">
+      <UniqueIdentifier>{e822fd0a-ead4-4665-afc2-514b02641c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Menus\Authenticate">
+      <UniqueIdentifier>{3ea5d281-fefe-410a-a1bd-703f1bfb3018}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Pages\Start Menu">
+      <UniqueIdentifier>{92b7ca4d-1b8e-47bc-a42a-ce76b27d185f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods">
+      <UniqueIdentifier>{6cfecc3b-4619-4832-be42-f176814c5cdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods">
+      <UniqueIdentifier>{f17eae61-c13e-4203-8eb1-81083ae61723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods\Simmulate">
+      <UniqueIdentifier>{60de449c-87b5-4fb7-8ee2-f35f477325bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods\Cameras">
+      <UniqueIdentifier>{c017ca03-ede6-4562-9c0a-eaa09961cc2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods\Brush Tools">
+      <UniqueIdentifier>{ad47ed60-8e50-4978-8888-aa97e3b2307d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods\Geometry Transform">
+      <UniqueIdentifier>{c9ac48d3-04e7-46c2-8fec-d0f1b33155ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods\Geometry Select">
+      <UniqueIdentifier>{67be78f6-fe38-464e-b27a-1a664d518272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Pods\Geometry Add">
+      <UniqueIdentifier>{dca9ebef-ba57-49f0-a33e-1f332c0160f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Tools">
+      <UniqueIdentifier>{159fecb0-5840-4e59-ac8a-cdaeef26f631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Tools\Brush Tools">
+      <UniqueIdentifier>{a94c6500-d564-41cd-a6a3-0ff3f91ba112}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Tools\Selection Tools">
+      <UniqueIdentifier>{3181b202-9c61-4b6d-9a6c-7e4b39728da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Surfaces\Tool Pods\Tools\Mesh Tools">
+      <UniqueIdentifier>{03fe1fac-742d-4de7-85b5-620c844bc63f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Framework\CFD DB">
+      <UniqueIdentifier>{74cc03f0-683d-476b-ad98-bc1f926a2140}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Framework\Remoting">
+      <UniqueIdentifier>{3a3e5848-d8cb-4773-af48-9dbccc98019c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Controls\Framework\Feedback">
+      <UniqueIdentifier>{ccb074a1-bf1d-4675-88ef-0c6457ca5592}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <Filter>Project</Filter>
+    </None>
+    <None Include="PropertySheet.props">
+      <Filter>Project</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <Filter>Project</Filter>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt">
+      <Filter>Project</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="MainPage.xaml">
+      <Filter>User Controls\Surfaces\Pages\Main Page</Filter>
+    </Page>
+    <Page Include="HV3DColorSwatch.xaml">
+      <Filter>Dictionaries\Themes\Color Swatches</Filter>
+    </Page>
+    <Page Include="HV3DUIElement.xaml">
+      <Filter>Dictionaries\Themes\UI Elements</Filter>
+    </Page>
+    <Page Include="HV3DPage.xaml">
+      <Filter>Dictionaries\Themes\Pages</Filter>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Filter>User Controls\Surfaces\Pages\App</Filter>
+    </ApplicationDefinition>
+  </ItemGroup>
+</Project>

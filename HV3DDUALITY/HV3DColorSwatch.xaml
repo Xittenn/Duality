@@ -1,0 +1,14 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HV3DDUALITY">
+
+    <SolidColorBrush x:Key="HV3DSBackdrop" Color="#FF435E64" />
+
+    <SolidColorBrush x:Key="HV3DSPanel" Color="#FF68828F" />
+
+    <SolidColorBrush x:Key="HV3DSCollection" Color="#FF082329" />
+
+    <SolidColorBrush x:Key="HV3DSInputBack" Color="#FF8AB6A2" />
+    
+</ResourceDictionary>
