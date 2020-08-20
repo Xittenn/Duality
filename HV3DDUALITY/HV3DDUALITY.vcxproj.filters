@@ -36,6 +36,18 @@
     <Image Include="Assets\LockScreenLogo.scale-200.png">
       <Filter>Assets</Filter>
     </Image>
+    <Image Include="Assets\Software\HV3DAtomIcon.png">
+      <Filter>Assets\Software</Filter>
+    </Image>
+    <Image Include="Assets\Software\HV3DAtomIconB.png">
+      <Filter>Assets\Software</Filter>
+    </Image>
+    <Image Include="Assets\Software\HV3DBannerLeft.png">
+      <Filter>Assets\Software</Filter>
+    </Image>
+    <Image Include="Assets\Software\HV3DBannerRight.png">
+      <Filter>Assets\Software</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Assets">
@@ -248,6 +260,9 @@
     </Page>
     <Page Include="HV3DPage.xaml">
       <Filter>Dictionaries\Themes\Pages</Filter>
+    </Page>
+    <Page Include="HV3DStartMenu.xaml">
+      <Filter>User Controls\Surfaces\Pages\Start Menu</Filter>
     </Page>
   </ItemGroup>
   <ItemGroup>

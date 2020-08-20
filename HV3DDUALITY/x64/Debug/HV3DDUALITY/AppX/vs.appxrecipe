@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-N3Q8RRD</Machine>
+    <WindowsUser>rebek</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>df2b696b-4b7d-4308-9932-d40863e6321d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=rebek</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\AppX</LayoutDir>
+    <RegisteredManifestChecksum>B9221BD5A03B7348DCC921B99F55567B1CDCD6E28F553A608DD2B04B2C88018E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df2b696b-4b7d-4308-9932-d40863e6321d_1.0.0.0_x64__4hx6ysts1aq3t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df2b696b-4b7d-4308-9932-d40863e6321d_4hx6ysts1aq3t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df2b696b-4b7d-4308-9932-d40863e6321d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=rebek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-20T02:18:29.201</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DDUALITY.exe">
+      <PackagePath>HV3DDUALITY.exe</PackagePath>
+      <Modified>2020-08-20T02:19:46.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.AI.MachineLearning.MachineLearningContract\2.0.0.0\Windows.AI.MachineLearning.MachineLearningContract.winmd">
+      <PackagePath>Windows.AI.MachineLearning.MachineLearningContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract\2.0.0.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract.winmd">
+      <PackagePath>Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.Calls.Background.CallsBackgroundContract\2.0.0.0\Windows.ApplicationModel.Calls.Background.CallsBackgroundContract.winmd">
+      <PackagePath>Windows.ApplicationModel.Calls.Background.CallsBackgroundContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.Calls.CallsPhoneContract\5.0.0.0\Windows.ApplicationModel.Calls.CallsPhoneContract.winmd">
+      <PackagePath>Windows.ApplicationModel.Calls.CallsPhoneContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.Calls.CallsVoipContract\4.0.0.0\Windows.ApplicationModel.Calls.CallsVoipContract.winmd">
+      <PackagePath>Windows.ApplicationModel.Calls.CallsVoipContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract\2.0.0.0\Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract.winmd">
+      <PackagePath>Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract\2.0.0.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract.winmd">
+      <PackagePath>Windows.ApplicationModel.SocialInfo.SocialInfoContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.StartupTaskContract\3.0.0.0\Windows.ApplicationModel.StartupTaskContract.winmd">
+      <PackagePath>Windows.ApplicationModel.StartupTaskContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Devices.Custom.CustomDeviceContract\1.0.0.0\Windows.Devices.Custom.CustomDeviceContract.winmd">
+      <PackagePath>Windows.Devices.Custom.CustomDeviceContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Devices.DevicesLowLevelContract\3.0.0.0\Windows.Devices.DevicesLowLevelContract.winmd">
+      <PackagePath>Windows.Devices.DevicesLowLevelContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Devices.Printers.PrintersContract\1.0.0.0\Windows.Devices.Printers.PrintersContract.winmd">
+      <PackagePath>Windows.Devices.Printers.PrintersContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract\3.0.0.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract.winmd">
+      <PackagePath>Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Devices.SmartCards.SmartCardEmulatorContract\6.0.0.0\Windows.Devices.SmartCards.SmartCardEmulatorContract.winmd">
+      <PackagePath>Windows.Devices.SmartCards.SmartCardEmulatorContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd">
+      <PackagePath>Windows.Foundation.FoundationContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd">
+      <PackagePath>Windows.Foundation.UniversalApiContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Gaming.XboxLive.StorageApiContract\1.0.0.0\Windows.Gaming.XboxLive.StorageApiContract.winmd">
+      <PackagePath>Windows.Gaming.XboxLive.StorageApiContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Graphics.Printing3D.Printing3DContract\4.0.0.0\Windows.Graphics.Printing3D.Printing3DContract.winmd">
+      <PackagePath>Windows.Graphics.Printing3D.Printing3DContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Networking.Connectivity.WwanContract\2.0.0.0\Windows.Networking.Connectivity.WwanContract.winmd">
+      <PackagePath>Windows.Networking.Connectivity.WwanContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Networking.Sockets.ControlChannelTriggerContract\3.0.0.0\Windows.Networking.Sockets.ControlChannelTriggerContract.winmd">
+      <PackagePath>Windows.Networking.Sockets.ControlChannelTriggerContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Services.Maps.GuidanceContract\3.0.0.0\Windows.Services.Maps.GuidanceContract.winmd">
+      <PackagePath>Windows.Services.Maps.GuidanceContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Services.Maps.LocalSearchContract\4.0.0.0\Windows.Services.Maps.LocalSearchContract.winmd">
+      <PackagePath>Windows.Services.Maps.LocalSearchContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Services.Store.StoreContract\4.0.0.0\Windows.Services.Store.StoreContract.winmd">
+      <PackagePath>Windows.Services.Store.StoreContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd">
+      <PackagePath>Windows.Services.TargetedContent.TargetedContentContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.System.Profile.ProfileHardwareTokenContract\1.0.0.0\Windows.System.Profile.ProfileHardwareTokenContract.winmd">
+      <PackagePath>Windows.System.Profile.ProfileHardwareTokenContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.System.Profile.ProfileSharedModeContract\2.0.0.0\Windows.System.Profile.ProfileSharedModeContract.winmd">
+      <PackagePath>Windows.System.Profile.ProfileSharedModeContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.System.Profile.SystemManufacturers.SystemManufacturersContract\3.0.0.0\Windows.System.Profile.SystemManufacturers.SystemManufacturersContract.winmd">
+      <PackagePath>Windows.System.Profile.SystemManufacturers.SystemManufacturersContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.System.SystemManagementContract\6.0.0.0\Windows.System.SystemManagementContract.winmd">
+      <PackagePath>Windows.System.SystemManagementContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract\1.0.0.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract.winmd">
+      <PackagePath>Windows.UI.ViewManagement.ViewManagementViewScalingContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\References\10.0.18362.0\Windows.UI.Xaml.Core.Direct.XamlDirectContract\2.0.0.0\Windows.UI.Xaml.Core.Direct.XamlDirectContract.winmd">
+      <PackagePath>Windows.UI.Xaml.Core.Direct.XamlDirectContract.winmd</PackagePath>
+      <Modified>2019-03-18T20:38:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DDUALITY.winmd">
+      <PackagePath>HV3DDUALITY.winmd</PackagePath>
+      <Modified>2020-08-20T02:16:53.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Software\HV3DAtomIcon.png">
+      <PackagePath>Assets\Software\HV3DAtomIcon.png</PackagePath>
+      <Modified>2018-12-19T03:04:18.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Software\HV3DAtomIconB.png">
+      <PackagePath>Assets\Software\HV3DAtomIconB.png</PackagePath>
+      <Modified>2018-12-19T03:04:18.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Software\HV3DBannerLeft.png">
+      <PackagePath>Assets\Software\HV3DBannerLeft.png</PackagePath>
+      <Modified>2018-12-19T03:04:18.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Software\HV3DBannerRight.png">
+      <PackagePath>Assets\Software\HV3DBannerRight.png</PackagePath>
+      <Modified>2018-12-19T03:04:18.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-30T09:24:20.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-08-20T02:49:45.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DColorSwatch.xbf">
+      <PackagePath>HV3DColorSwatch.xbf</PackagePath>
+      <Modified>2020-08-20T02:49:45.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DPage.xbf">
+      <PackagePath>HV3DPage.xbf</PackagePath>
+      <Modified>2020-08-20T02:49:45.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DStartMenu.xbf">
+      <PackagePath>HV3DStartMenu.xbf</PackagePath>
+      <Modified>2020-08-20T02:49:45.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DUIElement.xbf">
+      <PackagePath>HV3DUIElement.xbf</PackagePath>
+      <Modified>2020-08-20T02:49:45.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-08-20T02:49:45.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2019-03-19T02:50:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-08-20T02:18:29.095</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

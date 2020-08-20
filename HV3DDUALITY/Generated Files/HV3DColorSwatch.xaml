@@ -1,0 +1,17 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HV3DDUALITY">
+
+    <SolidColorBrush x:Key="HV3DPanelLight" Color="#FF8AB6A2" />
+
+    <SolidColorBrush x:Key="HV3DButtonMedium" Color="#6da189" />
+
+    <SolidColorBrush x:Key="HV3DBackdropWorkspace" Color="#FF68828F" />
+
+    <SolidColorBrush x:Key="HV3DPanelTopMedium" Color="#FF435E64" />
+
+    <SolidColorBrush x:Key="HV3DSBackdropDark" Color="#FF082329" />
+    
+</ResourceDictionary>
+

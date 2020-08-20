@@ -10,18 +10,16 @@
     <Page.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="HV3DSwatchDuality.xaml"/>
+                <ResourceDictionary Source="HV3DColorSwatch.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Page.Resources>
 
-    <Grid x:Name="gridRootNode" Background="{StaticResource HV3DSBackdrop}">
+    <Grid x:Name="RootPage">
 
-        <local:HV3DStartMenu x:Name="HV3DStartMenu" Grid.Column="0" Grid.Row="0" Grid.RowSpan="1" Margin="4,4,-4,-4"/>
+        <local:HV3DStartMenu x:Name="HV3DStartMenu" Grid.Column="0" Grid.Row="0" Grid.RowSpan="1"/>
 
         <!--authenticate-->
-
-        <Button x:Name="myButton" Click="ClickHandler" Margin="0,384,0,0" VerticalAlignment="Top">Click Me</Button>
 
     </Grid>
 

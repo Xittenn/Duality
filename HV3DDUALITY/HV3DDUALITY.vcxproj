@@ -110,6 +110,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="HV3DStartMenu.h">
+      <DependentUpon>HV3DStartMenu.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </ClInclude>
     <ClInclude Include="pch.h" />
     <ClInclude Include="App.h">
       <DependentUpon>App.xaml</DependentUpon>
@@ -128,6 +132,9 @@
     <Page Include="HV3DPage.xaml">
       <DeploymentContent>true</DeploymentContent>
     </Page>
+    <Page Include="HV3DStartMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="HV3DUIElement.xaml">
       <DeploymentContent>true</DeploymentContent>
     </Page>
@@ -142,6 +149,10 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="Assets\LockScreenLogo.scale-200.png" />
+    <Image Include="Assets\Software\HV3DAtomIcon.png" />
+    <Image Include="Assets\Software\HV3DAtomIconB.png" />
+    <Image Include="Assets\Software\HV3DBannerLeft.png" />
+    <Image Include="Assets\Software\HV3DBannerRight.png" />
     <Image Include="Assets\SplashScreen.scale-200.png" />
     <Image Include="Assets\Square150x150Logo.scale-200.png" />
     <Image Include="Assets\Square44x44Logo.scale-200.png" />
@@ -150,6 +161,10 @@
     <Image Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="HV3DStartMenu.cpp">
+      <DependentUpon>HV3DStartMenu.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </ClCompile>
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader>Create</PrecompiledHeader>
     </ClCompile>
@@ -164,6 +179,10 @@
   <ItemGroup>
     <Midl Include="App.idl">
       <DependentUpon>App.xaml</DependentUpon>
+    </Midl>
+    <Midl Include="HV3DStartMenu.idl">
+      <DependentUpon>HV3DStartMenu.xaml</DependentUpon>
+      <SubType>Code</SubType>
     </Midl>
     <Midl Include="MainPage.idl">
       <DependentUpon>MainPage.xaml</DependentUpon>

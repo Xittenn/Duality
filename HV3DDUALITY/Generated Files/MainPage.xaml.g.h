@@ -27,13 +27,13 @@ namespace winrt::HV3DDUALITY::implementation
         void UnloadObject(::winrt::Windows::UI::Xaml::DependencyObject const& dependencyObject);
         void DisconnectUnloadedObject(int32_t connectionId);
 
-        ::winrt::Windows::UI::Xaml::Controls::Grid gridRootNode()
+        ::winrt::Windows::UI::Xaml::Controls::Grid RootPage()
         {
-            return _gridRootNode;
+            return _RootPage;
         }
-        void gridRootNode(::winrt::Windows::UI::Xaml::Controls::Grid value)
+        void RootPage(::winrt::Windows::UI::Xaml::Controls::Grid value)
         {
-            _gridRootNode = value;
+            _RootPage = value;
         }
 
         ::winrt::HV3DDUALITY::HV3DStartMenu HV3DStartMenu()
@@ -44,15 +44,6 @@ namespace winrt::HV3DDUALITY::implementation
         {
             _HV3DStartMenu = value;
         }
-
-        ::winrt::Windows::UI::Xaml::Controls::Button myButton()
-        {
-            return _myButton;
-        }
-        void myButton(::winrt::Windows::UI::Xaml::Controls::Button value)
-        {
-            _myButton = value;
-        }
         
     protected:
         bool _contentLoaded{false};
@@ -60,9 +51,8 @@ namespace winrt::HV3DDUALITY::implementation
     private:
         struct MainPage_obj1_Bindings;
 
-        ::winrt::Windows::UI::Xaml::Controls::Grid _gridRootNode{nullptr};
+        ::winrt::Windows::UI::Xaml::Controls::Grid _RootPage{nullptr};
         ::winrt::HV3DDUALITY::HV3DStartMenu _HV3DStartMenu{nullptr};
-        ::winrt::Windows::UI::Xaml::Controls::Button _myButton{nullptr};
     };
 }
 
