@@ -1,14 +1,20 @@
-c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.pch
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\pch.pch
 c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\vc142.pdb
 c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\vc142.idb
 c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\pch.obj
-c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\dllmain.obj
-c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dmrpcm.ilk
-c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dmrpcm.dll
-c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dmrpcm.pdb
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\module.g.obj
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\unmerged\hv3dmrpcm.winmd
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.vcxprojassemblyreference.cache
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\cppwinrt_comp.rsp
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\cppwinrt_plat.rsp
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\mdmerge.rsp
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\midlrt.rsp
 c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\cl.command.1.tlog
 c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\cl.read.1.tlog
 c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\cl.write.1.tlog
-c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\link.command.1.tlog
-c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\link.read.1.tlog
-c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\link.write.1.tlog
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\midl-midlrt.write.1.tlog
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\midl.command.1.tlog
+c:\users\rebek\source\duality\hv3dmrpcm\x64\debug\hv3dmrpcm.tlog\midl.read.1.tlog
+c:\users\rebek\source\duality\hv3dmrpcm\generated files\chv3dmrpcm.g.h
+c:\users\rebek\source\duality\hv3dmrpcm\generated files\chv3dmrpcm.g.cpp
+c:\users\rebek\source\duality\hv3dmrpcm\generated files\module.g.cpp

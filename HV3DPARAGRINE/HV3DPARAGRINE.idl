@@ -1,0 +1,9 @@
+namespace HV3DPARAGRINE
+{
+    [default_interface]
+    runtimeclass Class
+    {
+        Class();
+        Int32 MyProperty;
+    }
+}

@@ -1,0 +1,9 @@
+namespace HV3DMRPCM
+{
+    [default_interface]
+    runtimeclass CHV3DMRPCM
+    {
+        CHV3DMRPCM();
+        Int32 MyProperty;
+    }
+}

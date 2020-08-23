@@ -1,10 +1,16 @@
-// HV3DMPU.cpp : Defines the functions for the static library.
-//
+﻿#include "pch.h"
+#include "HV3DMPU.h"
+#include "CHV3DMPU.g.cpp"
 
-#include "pch.h"
-#include "framework.h"
-
-// TODO: This is an example of a library function
-void fnHV3DMPU()
+namespace winrt::HV3DMPU::implementation
 {
+    int32_t CHV3DMPU::MyProperty()
+    {
+        throw hresult_not_implemented();
+    }
+
+    void CHV3DMPU::MyProperty(int32_t /* value */)
+    {
+        throw hresult_not_implemented();
+    }
 }

@@ -30,4 +30,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Midl Include="IHV3DDBMS.idl">
+      <Filter>Source Files</Filter>
+    </Midl>
+  </ItemGroup>
 </Project>
