@@ -6,7 +6,6 @@
 //------------------------------------------------------------------------------
 #include "pch.h"
 #include "MainPage.h"
-#include "HV3DStartMenu.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4100) // unreferenced formal parameter
@@ -42,12 +41,6 @@ namespace winrt::HV3DDUALITY::implementation
             {
                 auto targetElement = target.as<::winrt::Windows::UI::Xaml::Controls::Grid>();
                 this->RootPage(targetElement);
-            }
-            break;
-        case 3:
-            {
-                auto targetElement = target.as<::winrt::HV3DDUALITY::HV3DStartMenu>();
-                this->HV3DStartMenu(targetElement);
             }
             break;
         }

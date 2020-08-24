@@ -1,26 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Resources">
-      <UniqueIdentifier>accd3aa8-1ba0-4223-9bbe-0c431709210b</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <Filter Include="Generated Files">
-      <UniqueIdentifier>{926ab91d-31b4-48c3-b9a4-e681349f27f0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Project">
-      <UniqueIdentifier>{8f9ace65-4606-4a5d-a4e1-eb3ac3d8d5fa}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="cpp">
-      <UniqueIdentifier>{88511899-76cf-4dab-b2d3-6e51163732f6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="hpp">
-      <UniqueIdentifier>{9cdabaab-e3df-4689-ab7c-e8980ce16a9d}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Class.cpp" />
-    <ClCompile Include="$(GeneratedFilesDir)module.g.cpp">
+    <ClCompile Include="App.cpp">
       <Filter>Project</Filter>
     </ClCompile>
     <ClCompile Include="pch.cpp">
@@ -28,9 +9,40 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="HV3DMYSQLSTD.def">
-      <Filter>Project</Filter>
-    </None>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{db9086fe-bacc-4437-8272-1aa6642082db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Project">
+      <UniqueIdentifier>{dce836b9-05af-4c36-a7bb-805e85a32c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{1628bea0-88a6-4216-aeb4-720da635e863}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
     <None Include="packages.config">
       <Filter>Project</Filter>
     </None>
@@ -39,9 +51,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Midl Include="HV3DMYSQLSTD.idl">
+    <AppxManifest Include="Package.appxmanifest">
       <Filter>Project</Filter>
-    </Midl>
+    </AppxManifest>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">

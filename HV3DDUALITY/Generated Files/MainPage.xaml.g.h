@@ -35,15 +35,6 @@ namespace winrt::HV3DDUALITY::implementation
         {
             _RootPage = value;
         }
-
-        ::winrt::HV3DDUALITY::HV3DStartMenu HV3DStartMenu()
-        {
-            return _HV3DStartMenu;
-        }
-        void HV3DStartMenu(::winrt::HV3DDUALITY::HV3DStartMenu value)
-        {
-            _HV3DStartMenu = value;
-        }
         
     protected:
         bool _contentLoaded{false};
@@ -52,7 +43,6 @@ namespace winrt::HV3DDUALITY::implementation
         struct MainPage_obj1_Bindings;
 
         ::winrt::Windows::UI::Xaml::Controls::Grid _RootPage{nullptr};
-        ::winrt::HV3DDUALITY::HV3DStartMenu _HV3DStartMenu{nullptr};
     };
 }
 

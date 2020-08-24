@@ -1,5 +1,16 @@
-C:\Users\rebek\source\Duality\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\HV3DMYSQLSTD.pri
-C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\HV3DMYSQLSTD.vcxprojAssemblyReference.cache
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\LockScreenLogo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\SplashScreen.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\Square150x150Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\Square44x44Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\StoreLogo.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\Assets\Wide310x150Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\resources.pri
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\AppxManifest.xml
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMYSQLSTD\HV3DMYSQLSTD.build.appxrecipe
+C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\HV3DMYSQLSTD.vcxproj.CopyComplete
+C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\ResourceHandlingTask.state
+C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\HV3DMYSQLSTD.vcxproj.GenerateResource.Cache
 C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\priconfig.xml
 C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\priconfig.xml.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\unfiltered.layout.resfiles
@@ -15,3 +26,4 @@ C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\pri.resfiles.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\qualifiers.txt
 C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\qualifiers.txt.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rebek\source\DUALITY\HV3DMYSQLSTD\x64\Debug\ProjectArchitectures.txt

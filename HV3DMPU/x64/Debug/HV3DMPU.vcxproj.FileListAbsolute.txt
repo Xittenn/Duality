@@ -1,4 +1,16 @@
-C:\Users\rebek\source\Duality\HV3DDUALITY\x64\Debug\HV3DMPU\HV3DMPU.pri
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\LockScreenLogo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\SplashScreen.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\Square150x150Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\Square44x44Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\StoreLogo.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\Assets\Wide310x150Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\resources.pri
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\AppxManifest.xml
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMPU\HV3DMPU.build.appxrecipe
+C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\HV3DMPU.vcxproj.CopyComplete
+C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\ResourceHandlingTask.state
+C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\HV3DMPU.vcxproj.GenerateResource.Cache
 C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\priconfig.xml
 C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\priconfig.xml.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\unfiltered.layout.resfiles
@@ -14,3 +26,4 @@ C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\pri.resfiles.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\qualifiers.txt
 C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\qualifiers.txt.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rebek\source\DUALITY\HV3DMPU\x64\Debug\ProjectArchitectures.txt

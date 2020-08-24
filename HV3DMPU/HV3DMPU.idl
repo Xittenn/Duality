@@ -1,9 +1,0 @@
-namespace HV3DMPU
-{
-    [default_interface]
-    runtimeclass CHV3DMPU
-    {
-        CHV3DMPU();
-        Int32 MyProperty;
-    }
-}

@@ -176,7 +176,12 @@
   Processing input metadata file x64\Debug\Unmerged\XamlMetaDataProvider.winmd.
   Saved output metadata file HV3DDUALITY.winmd.
   Validating metadata file x64\Debug\Merged\HV3DDUALITY.winmd.
+  pch.cpp
+  module.g.cpp
   HV3DStartMenu.cpp
+  App.cpp
+  MainPage.cpp
+  XamlTypeInfo.Impl.g.cpp
   XamlTypeInfo.g.cpp
   XamlMetaDataProvider.cpp
      Creating library C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DDUALITY.lib and object C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DDUALITY\HV3DDUALITY.exp

@@ -2,11 +2,12 @@ c:\users\rebek\source\duality\hv3dduality\x64\debug\pch.pch
 c:\users\rebek\source\duality\hv3dduality\x64\debug\vc142.pdb
 c:\users\rebek\source\duality\hv3dduality\x64\debug\vc142.idb
 c:\users\rebek\source\duality\hv3dduality\x64\debug\pch.obj
-c:\users\rebek\source\duality\hv3dduality\x64\debug\mainpage.obj
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dstartmenu.obj
 c:\users\rebek\source\duality\hv3dduality\x64\debug\module.g.obj
 c:\users\rebek\source\duality\hv3dduality\x64\debug\xamltypeinfo.impl.g.obj
 c:\users\rebek\source\duality\hv3dduality\x64\debug\app.obj
+c:\users\rebek\source\duality\hv3dduality\x64\debug\mainpage.obj
+c:\users\rebek\source\duality\hv3dduality\x64\debug\xamltypeinfo.g.obj
 c:\users\rebek\source\duality\hv3dduality\x64\debug\xamlmetadataprovider.obj
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\windows.ai.machinelearning.machinelearningcontract.winmd
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
@@ -40,10 +41,68 @@ c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\windows.ui.xaml.
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.winmd
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.lib
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.exp
-c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.exe
-c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.ilk
-c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.pdb
+c:\users\rebek\source\duality\hv3dduality\generated files\app.xaml.g.h
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.xaml.g.h
+c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.xaml.g.h
+c:\users\rebek\source\duality\hv3dduality\generated files\xamllibmetadataprovider.g.cpp
+c:\users\rebek\source\duality\hv3dduality\generated files\xamltypeinfo.impl.g.cpp
+c:\users\rebek\source\duality\hv3dduality\generated files\app.xaml
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dcolorswatch.xaml
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dpage.xaml
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.xaml
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3duielement.xaml
+c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.xaml
+c:\users\rebek\source\duality\hv3dduality\generated files\app.xbf
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dcolorswatch.xbf
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dpage.xbf
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.xbf
+c:\users\rebek\source\duality\hv3dduality\generated files\hv3duielement.xbf
+c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\xamlsavestatefile.xml
+c:\users\rebek\source\duality\hv3dduality\generated files\xamltypeinfo.g.cpp
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.vcxproj.copycomplete
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\lockscreenlogo.scale-200.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\software\hv3datomicon.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\software\hv3datomiconb.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\software\hv3dbannerleft.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\software\hv3dbannerright.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\splashscreen.scale-200.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\square150x150logo.scale-200.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\square44x44logo.scale-200.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\square44x44logo.targetsize-24_altform-unplated.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\storelogo.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\assets\wide310x150logo.scale-200.png
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\app.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dcolorswatch.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dpage.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dstartmenu.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3duielement.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\mainpage.xbf
+c:\users\rebek\source\duality\hv3dduality\x64\debug\resourcehandlingtask.state
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.vcxproj.generateresource.cache
+c:\users\rebek\source\duality\hv3dduality\x64\debug\priconfig.xml
+c:\users\rebek\source\duality\hv3dduality\x64\debug\priconfig.xml.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\unfiltered.layout.resfiles
+c:\users\rebek\source\duality\hv3dduality\x64\debug\unfiltered.layout.resfiles.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\filtered.layout.resfiles
+c:\users\rebek\source\duality\hv3dduality\x64\debug\filtered.layout.resfiles.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\excluded.layout.resfiles
+c:\users\rebek\source\duality\hv3dduality\x64\debug\excluded.layout.resfiles.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\resources.resfiles
+c:\users\rebek\source\duality\hv3dduality\x64\debug\resources.resfiles.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\pri.resfiles
+c:\users\rebek\source\duality\hv3dduality\x64\debug\pri.resfiles.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\resources.pri
+c:\users\rebek\source\duality\hv3dduality\x64\debug\qualifiers.txt
+c:\users\rebek\source\duality\hv3dduality\x64\debug\qualifiers.txt.intermediate
+c:\users\rebek\source\duality\hv3dduality\x64\debug\multiplequalifiersperdimensionfound.txt
+c:\users\rebek\source\duality\hv3dduality\x64\debug\projectarchitectures.txt
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\appxmanifest.xml
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.build.appxrecipe
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.tlog\hv3dduality.winmd.lastbuild
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.ilk
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.exe
+c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality\hv3dduality.pdb
 c:\users\rebek\source\duality\hv3dduality\x64\debug\unmerged\app.winmd
 c:\users\rebek\source\duality\hv3dduality\x64\debug\unmerged\hv3dstartmenu.winmd
 c:\users\rebek\source\duality\hv3dduality\x64\debug\unmerged\mainpage.winmd
@@ -64,27 +123,15 @@ c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.tlog\midl-midlrt
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.tlog\midl.command.1.tlog
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.tlog\midl.read.1.tlog
 c:\users\rebek\source\duality\hv3dduality\x64\debug\hv3dduality.tlog\xaml.read.1u.tlog
-c:\users\rebek\source\duality\hv3dduality\generated files\app.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\hv3dcolorswatch.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\hv3dpage.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.g.h
-c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\hv3duielement.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.g.h
-c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\xamlbindinginfo.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\xamlmetadataprovider.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\xamltypeinfo.xaml.g.h
 c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.g.cpp
 c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.g.cpp
 c:\users\rebek\source\duality\hv3dduality\generated files\module.g.cpp
-c:\users\rebek\source\duality\hv3dduality\generated files\xamllibmetadataprovider.g.cpp
 c:\users\rebek\source\duality\hv3dduality\generated files\xamlmetadataprovider.g.cpp
-c:\users\rebek\source\duality\hv3dduality\generated files\xamltypeinfo.g.cpp
-c:\users\rebek\source\duality\hv3dduality\generated files\xamltypeinfo.impl.g.cpp
-c:\users\rebek\source\duality\hv3dduality\generated files\app.xaml
-c:\users\rebek\source\duality\hv3dduality\generated files\hv3dcolorswatch.xaml
-c:\users\rebek\source\duality\hv3dduality\generated files\hv3dpage.xaml
-c:\users\rebek\source\duality\hv3dduality\generated files\hv3dstartmenu.xaml
-c:\users\rebek\source\duality\hv3dduality\generated files\hv3duielement.xaml
-c:\users\rebek\source\duality\hv3dduality\generated files\mainpage.xaml

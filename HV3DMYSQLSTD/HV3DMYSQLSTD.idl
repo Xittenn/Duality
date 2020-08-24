@@ -1,9 +1,0 @@
-namespace HV3DMYSQLSTD
-{
-    [default_interface]
-    runtimeclass CHV3DMYSQLSTD
-    {
-        CHV3DMYSQLSTD();
-        Int32 MyProperty;
-    }
-}

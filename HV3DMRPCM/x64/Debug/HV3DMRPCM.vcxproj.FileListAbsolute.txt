@@ -1,5 +1,16 @@
-C:\Users\rebek\source\Duality\HV3DDUALITY\x64\Debug\HV3DMRPCM\HV3DMRPCM.pri
-C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\HV3DMRPCM.vcxprojAssemblyReference.cache
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\LockScreenLogo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\SplashScreen.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\Square150x150Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\Square44x44Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\StoreLogo.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\Assets\Wide310x150Logo.scale-200.png
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\resources.pri
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\AppxManifest.xml
+C:\Users\rebek\source\DUALITY\HV3DDUALITY\x64\Debug\HV3DMRPCM\HV3DMRPCM.build.appxrecipe
+C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\HV3DMRPCM.vcxproj.CopyComplete
+C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\ResourceHandlingTask.state
+C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\HV3DMRPCM.vcxproj.GenerateResource.Cache
 C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\priconfig.xml
 C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\priconfig.xml.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\unfiltered.layout.resfiles
@@ -15,3 +26,4 @@ C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\pri.resfiles.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\qualifiers.txt
 C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\qualifiers.txt.intermediate
 C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rebek\source\DUALITY\HV3DMRPCM\x64\Debug\ProjectArchitectures.txt

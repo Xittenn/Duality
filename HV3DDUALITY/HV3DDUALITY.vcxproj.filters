@@ -7,10 +7,10 @@
   <ItemGroup>
     <ClCompile Include="App.cpp" />
     <ClCompile Include="MainPage.cpp" />
-    <ClCompile Include="$(GeneratedFilesDir)module.g.cpp">
+    <ClCompile Include="pch.cpp">
       <Filter>Project</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="Generated Files\module.g.cpp">
       <Filter>Project</Filter>
     </ClCompile>
   </ItemGroup>
@@ -85,9 +85,6 @@
     </Filter>
     <Filter Include="User Controls\Surfaces\Pages\Main Page">
       <UniqueIdentifier>{de8285c8-a76f-4e12-adee-b72d22a84732}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="User Controls\Surfaces\Pages\App">
-      <UniqueIdentifier>{1ecd2d9c-a96b-4ec2-baa1-1cd28485b3e4}</UniqueIdentifier>
     </Filter>
     <Filter Include="User Controls\Surfaces\Menus\New Project">
       <UniqueIdentifier>{ab747ae7-7ea7-4c9d-9874-34f3f6e55b6a}</UniqueIdentifier>
@@ -224,11 +221,15 @@
     <Filter Include="User Controls\Framework\Feedback">
       <UniqueIdentifier>{ccb074a1-bf1d-4675-88ef-0c6457ca5592}</UniqueIdentifier>
     </Filter>
+    <Filter Include="User Controls\Surfaces\Pages\App">
+      <UniqueIdentifier>{1ecd2d9c-a96b-4ec2-baa1-1cd28485b3e4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="PropertySheet.props">
       <Filter>Project</Filter>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -239,11 +240,6 @@
     <ClInclude Include="pch.h">
       <Filter>Project</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="readme.txt">
-      <Filter>Project</Filter>
-    </Text>
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainPage.xaml">
