@@ -6,6 +6,7 @@
 
 using namespace winrt;
 using namespace Windows::UI::Xaml;
+using namespace Windows::UI::Xaml::Controls;
 
 namespace winrt::HV3DDUALITY::implementation
 {
@@ -40,8 +41,9 @@ namespace winrt::HV3DDUALITY::implementation
 
     }
 
-    Loaded_revoker HV3DStartMenu::loaded_PopulateProjects(auto_revoke_t, winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    Canvas::Loaded_revoker HV3DStartMenu::loaded_PopulateProjects(auto_revoke_t, RoutedEventHandler const& handler) const
     {
+
 
     }
 
@@ -56,8 +58,9 @@ namespace winrt::HV3DDUALITY::implementation
 
     }
 
-    Loaded_revoker HV3DStartMenu::loaded_PopulateNewProjects(auto_revoke_t, winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    Canvas::Loaded_revoker HV3DStartMenu::loaded_PopulateNewProjects(auto_revoke_t, RoutedEventHandler const& handler) const
     {
+
 
     }
 
