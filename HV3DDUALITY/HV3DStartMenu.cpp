@@ -25,13 +25,13 @@ namespace winrt::HV3DDUALITY::implementation
         throw hresult_not_implemented();
     }
 
-    void HV3DStartMenu::Click_NewEmptyProject(IInspectable const&, winrt::Windows::UI::Xaml::RoutedEventArgs const&)
+    void HV3DStartMenu::Click_NewEmptyProject(IInspectable const&, RoutedEventArgs const&)
     {
         NewEmptyProject().Content(box_value(L"Clicked"));
     }
 
 
-    event_token HV3DStartMenu::loaded_PopulateProjects(winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    event_token HV3DStartMenu::loaded_PopulateProjects(RoutedEventHandler const& handler) const
     {
 
     }
@@ -48,7 +48,7 @@ namespace winrt::HV3DDUALITY::implementation
     }
 
 
-    event_token HV3DStartMenu::loaded_PopulateNewProjects(winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    event_token HV3DStartMenu::loaded_PopulateNewProjects(RoutedEventHandler const& handler) const
     {
 
     }

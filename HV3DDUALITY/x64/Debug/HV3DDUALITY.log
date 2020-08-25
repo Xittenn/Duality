@@ -1,4 +1,4 @@
-﻿  64 bit MIDLRT Processing C:\Users\rebek\source\DUALITY\HV3DDUALITY\App.idl
+﻿  64 bit MIDLRT Processing C:\Users\rebek\Source\DUALITY\HV3DDUALITY\App.idl
   App.idl
   64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\winrtbase.idl
   winrtbase.idl
@@ -33,7 +33,7 @@
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.systemmanagementcontract\6.0.0.0\windows.system.systemmanagementcontract.winmd
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.xaml.core.direct.xamldirectcontract\2.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
-  64 bit MIDLRT Processing C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.idl
+  64 bit MIDLRT Processing C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.idl
   HV3DStartMenu.idl
   64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\winrtbase.idl
   winrtbase.idl
@@ -68,7 +68,7 @@
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.systemmanagementcontract\6.0.0.0\windows.system.systemmanagementcontract.winmd
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.xaml.core.direct.xamldirectcontract\2.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
-  64 bit MIDLRT Processing C:\Users\rebek\source\DUALITY\HV3DDUALITY\MainPage.idl
+  64 bit MIDLRT Processing C:\Users\rebek\Source\DUALITY\HV3DDUALITY\MainPage.idl
   MainPage.idl
   64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\winrtbase.idl
   winrtbase.idl
@@ -103,7 +103,7 @@
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.systemmanagementcontract\6.0.0.0\windows.system.systemmanagementcontract.winmd
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
   Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.xaml.core.direct.xamldirectcontract\2.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
-  64 bit MIDLRT Processing C:\Users\rebek\source\DUALITY\HV3DDUALITY\Generated Files\XamlMetaDataProvider.idl
+  64 bit MIDLRT Processing C:\Users\rebek\Source\DUALITY\HV3DDUALITY\Generated Files\XamlMetaDataProvider.idl
   XamlMetaDataProvider.idl
   64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\winrtbase.idl
   winrtbase.idl
@@ -181,15 +181,15 @@
   HV3DStartMenu.cpp
   App.cpp
   MainPage.cpp
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(34,108): warning C4100: 'handler': unreferenced formal parameter
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(39,68): warning C4100: 'cookie': unreferenced formal parameter
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(44,108): warning C4100: 'handler': unreferenced formal parameter
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(51,111): warning C4100: 'handler': unreferenced formal parameter
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(56,71): warning C4100: 'cookie': unreferenced formal parameter
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(61,111): warning C4100: 'handler': unreferenced formal parameter
   XamlTypeInfo.Impl.g.cpp
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(64): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateNewProjects': must return a value
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(37): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateProjects': must return a value
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(48): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateProjects': must return a value
-C:\Users\rebek\source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(54): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateNewProjects': must return a value
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(34,82): warning C4100: 'handler': unreferenced formal parameter
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(39,68): warning C4100: 'cookie': unreferenced formal parameter
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(44,108): warning C4100: 'handler': unreferenced formal parameter
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(51,85): warning C4100: 'handler': unreferenced formal parameter
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(56,71): warning C4100: 'cookie': unreferenced formal parameter
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(61,111): warning C4100: 'handler': unreferenced formal parameter
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(48): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateProjects': must return a value
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(37): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateProjects': must return a value
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(65): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateNewProjects': must return a value
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(54): error C4716: 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::loaded_PopulateNewProjects': must return a value
 C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.Windows.UI.Xaml.Common.targets(482,5): error MSB4181: The "CompileXaml" task returned false but did not log an error.
