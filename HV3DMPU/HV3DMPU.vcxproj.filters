@@ -46,6 +46,7 @@
     <None Include="PropertySheet.props">
       <Filter>Project</Filter>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">

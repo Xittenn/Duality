@@ -30,33 +30,33 @@ namespace winrt::HV3DDUALITY::implementation
     }
 
 
-    event_token load_PopulateProjects(winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    event_token HV3DStartMenu::loaded_PopulateProjects(winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
     {
 
     }
 
-    void load_PopulateProjects(event_token const* cookie) const
+    void HV3DStartMenu::loaded_PopulateProjects(event_token const* cookie) const
     {
 
     }
 
-    Loaded_revoker load_PopulateProjects(auto_revoke_t, winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    Loaded_revoker HV3DStartMenu::loaded_PopulateProjects(auto_revoke_t, winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
     {
 
     }
 
 
-    event_token load_PopulateNewProjects(winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    event_token HV3DStartMenu::loaded_PopulateNewProjects(winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
     {
 
     }
 
-    void load_PopulateNewProjects(event_token const* cookie) const
+    void HV3DStartMenu::loaded_PopulateNewProjects(event_token const* cookie) const
     {
 
     }
 
-    Loaded_revoker load_PopulateNewProjects(auto_revoke_t, winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
+    Loaded_revoker HV3DStartMenu::loaded_PopulateNewProjects(auto_revoke_t, winrt::Windows::UI::Xaml::RoutedEventHandler const& handler) const
     {
 
     }

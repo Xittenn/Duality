@@ -18,11 +18,11 @@ namespace winrt::HV3DDUALITY::implementation
         void Click_NewEmptyProject(IInspectable const& sender, RoutedEventArgs const& args);
  
 
-        event_token load_PopulateProjects(RoutedEventHandler const& handler) const;
+        event_token loaded_PopulateProjects(RoutedEventHandler const& handler) const;
 
-        void load_PopulateProjects(event_token const* cookie) const;
+        void loaded_PopulateProjects(event_token const* cookie) const;
 
-        Loaded_revoker load_PopulateProjects(auto_revoke_t, RoutedEventHandler const& handler) const;
+        Loaded_revoker loaded_PopulateProjects(auto_revoke_t, RoutedEventHandler const& handler) const;
 
 
         event_token loaded_PopulateNewProjects(RoutedEventHandler const& handler) const;

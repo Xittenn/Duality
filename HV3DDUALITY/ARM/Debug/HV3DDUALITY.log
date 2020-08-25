@@ -1,1 +1,36 @@
-﻿
+﻿  HV3DStartMenu.cpp
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(18,80): error C2061: syntax error: identifier 'RoutedEventArgs'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(21,62): error C2061: syntax error: identifier 'RoutedEventHandler'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(25,80): error C2061: syntax error: identifier 'RoutedEventHandler'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(28,67): error C2061: syntax error: identifier 'RoutedEventHandler'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(32,85): error C2061: syntax error: identifier 'RoutedEventHandler'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(28,5): error C2511: 'void winrt::HV3DDUALITY::implementation::HV3DStartMenu::Click_NewEmptyProject(const winrt::implements<D,winrt::HV3DDUALITY::HV3DStartMenu,winrt::composing,winrt::Windows::UI::Xaml::Controls::IPageOverrides,winrt::Windows::UI::Xaml::Controls::IControlOverrides,winrt::Windows::UI::Xaml::Controls::IControlOverrides6,winrt::Windows::UI::Xaml::IFrameworkElementOverrides,winrt::Windows::UI::Xaml::IFrameworkElementOverrides2,winrt::Windows::UI::Xaml::IUIElementOverrides,winrt::Windows::UI::Xaml::IUIElementOverrides7,winrt::Windows::UI::Xaml::IUIElementOverrides8,winrt::Windows::UI::Xaml::IUIElementOverrides9,winrt::Windows::UI::Xaml::Markup::IComponentConnector,winrt::Windows::UI::Xaml::Markup::IComponentConnector2>::IInspectable &,const winrt::Windows::UI::Xaml::RoutedEventArgs &)': overloaded member function not found in 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+          with
+          [
+              D=winrt::HV3DDUALITY::implementation::HV3DStartMenu
+          ]
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(8): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(29,9): error C2352: 'winrt::HV3DDUALITY::implementation::HV3DStartMenuT<winrt::HV3DDUALITY::implementation::HV3DStartMenu>::NewEmptyProject': illegal call of non-static member function
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\Generated Files\HV3DStartMenu.xaml.g.h(57): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenuT<winrt::HV3DDUALITY::implementation::HV3DStartMenu>::NewEmptyProject'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(34,5): error C2511: 'winrt::event_token winrt::HV3DDUALITY::implementation::HV3DStartMenu::load_PopulateProjects(const winrt::Windows::UI::Xaml::RoutedEventHandler &) const': overloaded member function not found in 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(8): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(43,35): error C2143: syntax error: missing ';' before 'winrt::HV3DDUALITY::implementation::HV3DStartMenu::load_PopulateProjects'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(43,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(44,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(44,5): error C2511: 'int winrt::HV3DDUALITY::implementation::HV3DStartMenu::load_PopulateProjects(winrt::auto_revoke_t,const winrt::Windows::UI::Xaml::RoutedEventHandler &) const': overloaded member function not found in 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(8): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(49,32): error C2039: 'load_PopulateNewProjects': is not a member of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(8): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(50,5): error C2270: 'load_PopulateNewProjects': modifiers not allowed on nonmember functions
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(54,25): error C2039: 'load_PopulateNewProjects': is not a member of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(8): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(55,5): error C2270: 'load_PopulateNewProjects': modifiers not allowed on nonmember functions
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(59,35): error C2039: 'load_PopulateNewProjects': is not a member of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.h(8): message : see declaration of 'winrt::HV3DDUALITY::implementation::HV3DStartMenu'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(59,59): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(59,5): error C2086: 'int winrt::HV3DDUALITY::implementation::Loaded_revoker': redefinition
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(43): message : see declaration of 'winrt::HV3DDUALITY::implementation::Loaded_revoker'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(59,59): error C2146: syntax error: missing ';' before identifier 'load_PopulateNewProjects'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(60,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\rebek\Source\DUALITY\HV3DDUALITY\HV3DStartMenu.cpp(60,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.Windows.UI.Xaml.Common.targets(482,5): error MSB4181: The "CompileXaml" task returned false but did not log an error.
