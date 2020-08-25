@@ -29,16 +29,16 @@
         </Grid>
 
         <Grid Grid.Column="1">
-            <StackPanel Margin="5,5" Background="{StaticResource HV3DPanelLight}">
+            <Canvas Margin="5,5" Background="{StaticResource HV3DPanelLight}" Loaded="loaded_PopulateProjects">
                 <TextBlock Name="LoadProject" Text="Load Project" FontSize="60" 
                            Width="400" Height="80" 
                            HorizontalAlignment="Left" VerticalAlignment="Top"
                            Margin="30,50"/>
-            </StackPanel>
+            </Canvas>
         </Grid>
 
         <Grid Grid.Column="2">
-            <Canvas Margin="5,5" Background="{StaticResource HV3DPanelLight}">
+            <Canvas Margin="5,5" Background="{StaticResource HV3DPanelLight}" Loaded="loaded_PopulateNewProjects">
                 <TextBlock Name="NewProject" Text="New Project" FontSize="60" 
                            Width="400" Height="80" 
                            HorizontalAlignment="Left" VerticalAlignment="Top"
