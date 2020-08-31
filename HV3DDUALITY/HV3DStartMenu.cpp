@@ -13,6 +13,8 @@ namespace winrt::HV3DDUALITY::implementation
     HV3DStartMenu::HV3DStartMenu()
     {
         InitializeComponent();
+
+
     }
 
     int32_t HV3DStartMenu::MyProperty()
@@ -25,15 +27,10 @@ namespace winrt::HV3DDUALITY::implementation
         throw hresult_not_implemented();
     }
 
-    void HV3DStartMenu::Click_NewEmptyProject(IInspectable const&, RoutedEventArgs const&)
-    {
-        NewEmptyProject().Content(box_value(L"Clicked"));
-    }
-
 
     event_token HV3DStartMenu::loaded_PopulateProjects(RoutedEventHandler const& handler) const
     {
-
+        return loaded_PopulateProjectsEvents.add(handler);
     }
 
     void HV3DStartMenu::loaded_PopulateProjects(event_token const* cookie) const

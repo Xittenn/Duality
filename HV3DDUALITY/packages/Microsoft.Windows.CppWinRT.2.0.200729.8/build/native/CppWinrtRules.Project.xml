@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Rule Name="CppWinRT" DisplayName="C++/WinRT" Order="75" PageTemplate="generic" xmlns="http://schemas.microsoft.com/build/2009/properties">
 
   <Rule.Categories>

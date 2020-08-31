@@ -1,4 +1,4 @@
-﻿<Page
+<Page
     x:Class="HV3DDUALITY.HV3DStartMenu"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -43,15 +43,6 @@
                            Width="400" Height="80" 
                            HorizontalAlignment="Left" VerticalAlignment="Top"
                            Margin="30,50"/>
-                <Button Name="NewEmptyProject"
-                        Click="Click_NewEmptyProject" 
-                        Margin="20,5" Width="400" Height="100" Canvas.Top="150"
-                        Background="{StaticResource HV3DButtonMedium}">
-                    <TextBlock>
-                        <Run FontSize="40" Text="Empty Project"/><LineBreak/>
-                        <Run FontSize="20" Text="CAD Embeded CFD"/>
-                    </TextBlock>           
-                </Button>
             </Canvas>            
         </Grid>
 
